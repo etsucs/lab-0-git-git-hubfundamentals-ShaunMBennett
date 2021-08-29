@@ -1,4 +1,8 @@
+Professor Desjardins,
+
 This is me letting you know I have finished this lab.
+
+- Shaun Bennett
 
 
 # :wave: The Basics of GitHub 
