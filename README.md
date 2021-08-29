@@ -1,3 +1,6 @@
+This is me letting you know I have finished this lab.
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
